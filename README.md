@@ -8,5 +8,5 @@ App has been deployed using Netlify
  https://shrutikotian-search-github-users.netlify.com/
  
  *Gif:
-![](file:///Users/shrutikotian/Desktop/searchGithubUsers.gif)
+![](searchGithubUsers.gif)
 
