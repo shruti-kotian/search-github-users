@@ -4,4 +4,4 @@ React app to search GitHub users and their profiles. The app uses context API wi
 App has been deployed using Netlify
 
 #Live demo of the application:
- https://shrutikotian921204.netlify.com
+ shrutikotian-search-github-users.netlify.com
